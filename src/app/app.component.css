@@ -1,0 +1,19 @@
+.search{
+    width: 96%;
+    line-height: 33px;
+    border: 1px solid #719e3c;
+    padding: 2%;
+}
+body{
+    background: #eaeaea;
+    font-family: 'Courier New', Courier, monospace;
+}
+.mainwrap{
+    text-align: left;
+    padding: 50px 30px;
+    background: #8BC34A;
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+    color: #fff;
+}
